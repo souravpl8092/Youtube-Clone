@@ -5,7 +5,8 @@ Users can find a wide variety of content on YouTube, including music videos, com
 Users can also leave comments on videos, and many creators will respond to their viewers. Some of the content creator also earn money by monetizing their videos either through ads, sponsorships or subscriber-only access.
 There are also many channels on YouTube that are dedicated to specific topics, such as technology, beauty, and gaming. Many people watch YouTube videos on a daily basis and it has become a central part of the internet culture.
 
-WHAT I WOULD OF DONE DIFFERENTLY:
+
+### WHAT I WOULD OF DONE DIFFERENTLY:
 
 Seeing how big this app has become, I would of taken a different route and instead of conditionally rendering the 3 components (YouTubeVids, SearchPage & VideoPage), I would of used React router.
 
